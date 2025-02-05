@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently working on Data Structure Projects<br>I'm looking to collaborate on a weather app<br>I'm looking for help with App development<br>I'm presently learning programming languages<br>
+# About Me:
+I'm currently working on Data Structure Projects<br>I'm presently learning programming languages<br>I'm looking for help with App development<br>
 
 
 ## 🌐 Socials:
