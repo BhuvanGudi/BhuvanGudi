@@ -1,87 +1,105 @@
-###
+![Profile views counter](https://komarev.com/ghpvc/?username=BhuvanGudi&&style=flat-square)
+<h2> Hey 👋, I'm Bhuvan Gudimetla </h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhuvangudi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvangudi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
-</div>
-<div align="center">
+<a href="https://github.com/BhuvanGudi" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/Bhuvan Gudimetla" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/Bhuvan Gudimetla" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/bhuvan_1318" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://gitlab.com/bhuvan.gudimetla" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>  
   
-  <img src="https://streak-stats.demolab.com?user=bhuvangudi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
-</div>
 
-<div></div>
+<br/> 
 
----
 
-<h2 align="center">Hi 👋, I'm Bhuvan Gudimetla</h1>
-<h4 align="center">A passionate data analytics aspirer</h3>
+### Glad to see you here!  
+I am a second-year computer science undergraduate at the University of Calgary, driven by curiosity about the technologies shaping our future. How do some innovations revolutionize industries while others fall short? What trends point to the next big breakthrough?
+
+I’ve delved into foundational coursework in programming and algorithms and gained exposure to problem-solving in tech projects. I’m eager to continue growing my skills and contributing to the development of tomorrow’s transformative technologies.  
+  
+
+<br/> 
+
+
+## Rapidfire  
+<table><tr><td valign="top">
+
 
 - 🔭 I’m currently working on **self-projects/apps**
+  
 
 - 🌱 I’m currently learning **back-end/app development**
+  
 
 - 👯 I’m looking to collaborate on **project designing**
+ 
 
 - 📫 How to reach me **gudimetlabhuvan@gmail.com**
+  
 
----
+- ❓ Ask me about anything related to app development  
+  
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-</div>
+- ⚡ Fun fact: Once I start coding, I can sit for days until I complete the specific task 
 
----
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gudimetla bhuvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gudimetla bhuvan" height="30" width="40" /></a>
-<a href="https://fb.com/gudimetla bhuvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gudimetla bhuvan" height="30" width="40" /></a>
-</p>
 
----
+</td></tr></table>    
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvangudi&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvangudi" /> </p>
+
+<br/> 
+
+
+## Languages and Tools  
+<div style="display: flex; flex-wrap: wrap; align="center" width: 100%; padding: 10px;>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" width="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" width="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" width="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" width="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" width="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" width="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" width="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" width="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" width="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" width="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" width="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" width="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" width="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" width="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" width="50" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" width="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" width="50" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" width="50" /></a>  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+<table style="border: none;">
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=BhuvanGudi&show_icons=true&theme=dark&count_private=true&hide_border=false&border_radius=5&order=3" width="300" height="180" style="object-fit: cover;" alt="stats" />
+        </td>
+        <td>
+            <div>
+                <img src="https://streak-stats.demolab.com?user=bhuvangudi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="300" height="180" style="object-fit: cover;" alt="streak graph" />
+            </div>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvanGudi&theme=dark&hide_border=false&layout=compact" width="300" height="180" style="object-fit: cover;" alt="languages" />
+        </td>
+    </tr>
+</table>
+  
 
 ---
