@@ -1,11 +1,11 @@
-### 👀 Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvangudi&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvangudi" /></p>
-
 ### 📊 GitHub Stats
 <p> 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvangudi&" alt="bhuvangudi" />
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvangudi&show_icons=true&locale=en" alt="bhuvangudi" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvangudi&show_icons=true&locale=en" alt="bhuvangudi" />
 </p>
+
+### 👀 Profile Views
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvangudi&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvangudi" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvangudi&show_icons=true&locale=en&layout=compact" alt="bhuvangudi" /></p>
 
