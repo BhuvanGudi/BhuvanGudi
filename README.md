@@ -1,5 +1,8 @@
+![alt text](https://github.com/BhuvanGudi/BhuvanGudi/blob/main/Banner3.jpg?raw=true)
+
+</br>
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=BhuvanGudi&&style=flat-square)
-<h2> Hey 👋, I'm Bhuvan Gudimetla </h2>
 
 <a href="https://github.com/BhuvanGudi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
