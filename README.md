@@ -2,8 +2,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhuvangudi&show_icons=true&theme=radical" alt="bhuvangudi" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvangudi&theme=radical" alt="bhuvangudi" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhuvangudi&show_icons=true&theme=radical" alt="bhuvangudi" width="48%" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvangudi&theme=radical" alt="bhuvangudi" width="48%" height ="180"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvangudi&show_icons=true&locale=en&layout=compact&theme=radical" alt="bhuvangudi" width="48%"/>
