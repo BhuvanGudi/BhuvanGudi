@@ -1,4 +1,4 @@
-## Hi there! I'm Bhuvan Gudimetla 👋
+## Hi there! I'm Bhuvan Gudimetla 
 
 ### 📊 GitHub Stats
 <p align="center">
