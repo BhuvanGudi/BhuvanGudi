@@ -1,4 +1,4 @@
-![alt text](https://github.com/BhuvanGudi/BhuvanGudi/blob/main/Banner3.jpg?raw=true)
+![alt text](https://github.com/BhuvanGudi/BhuvanGudi/blob/main/Banner1.jpg?raw=true)
 
 </br>
 
