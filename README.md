@@ -1,6 +1,7 @@
 # About Me:
 I'm currently working on Data Structure Projects<br>I'm presently learning programming languages<br>I'm looking for help with App development<br>
 
+--
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bhuvan Gudimetla) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhuvan_1318) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bhuvan Gudimetla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gudimetlabhuvan@gmail.com) 
