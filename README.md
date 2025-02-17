@@ -93,11 +93,11 @@ I’ve delved into foundational coursework in programming and algorithms and gai
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=BhuvanGudi&show_icons=true&theme=dark&count_private=true&hide_border=false&border_radius=5&order=3" width="300" height="180" style="object-fit: cover;" alt="stats" />
         </td>
-<!--         <td>
+<!--          <td>
             <div>
-                <img src="https://streak-stats.demolab.com?user=bhuvangudi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="300" height="180" style="object-fit: cover;" alt="streak graph" />
+                <img src="https://streak-stats.demolab.com?username=BhuvanGudi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="300" height="180" style="object-fit: cover;" alt="streak graph" />
             </div>
-        </td> -->
+        </td>  -->
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvanGudi&theme=dark&hide_border=false&layout=compact" width="300" height="180" style="object-fit: cover;" alt="languages" />
         </td>
