@@ -100,7 +100,7 @@ user=BhuvanGudi&theme=dark&card_width=300&card_height=180)](https://git.io/strea
 <table style="border: none;">
     <tr>
         <td>
-            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rho-five.vercel.app?user=BhuvanGudi&theme=dark&card_width=300&card_height=180" alt="GitHub Streak" /></a>
+            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rho-five.vercel.app?user=BhuvanGudi&theme=dark" width="300" height="180" alt="GitHub Streak" /></a>
         </td>
 <!--          <td>
             <div>
