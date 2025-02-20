@@ -86,12 +86,21 @@ I’ve delved into foundational coursework in programming and algorithms and gai
 
 <br/>  
 
+<!-- 
+YouTube - https://www.youtube.com/watch?v=maoXtlb8t44
+
+Vercel - https://github-readme-streak-stats-rho-five.vercel.app/demo/
+
+Vercel Output Image - https://vercel.com/new/bhuvangudis-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=github-readme-streak-stats-6ts3lhz4v-bhuvangudis-projects.vercel.app&projectName=github-readme-streak-stats&s=https%3A%2F%2Fgithub.com%2FBhuvanGudi%2Fgithub-readme-streak-stats%2Ftree%2Fmain&gitOrgLimit=&hasTrialAvailable=&totalProjects=
+
+[![GitHub Streak](https://github-readme-streak-stats-rho-five.vercel.app?
+user=BhuvanGudi&theme=dark&card_width=300&card_height=180)](https://git.io/streak-stats) -->
 
 ## Github Stats  
 <table style="border: none;">
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=BhuvanGudi&show_icons=true&theme=dark&count_private=true&hide_border=false&border_radius=5&order=3" width="300" height="180" style="object-fit: cover;" alt="stats" />
+            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rho-five.vercel.app?user=BhuvanGudi&theme=dark&card_width=300&card_height=180" alt="GitHub Streak" /></a>
         </td>
 <!--          <td>
             <div>
