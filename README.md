@@ -96,6 +96,15 @@ Vercel Output Image - https://vercel.com/new/bhuvangudis-projects/success?develo
 [![GitHub Streak](https://github-readme-streak-stats-rho-five.vercel.app?
 user=BhuvanGudi&theme=dark&card_width=300&card_height=180)](https://git.io/streak-stats) -->
 
+<!--
+![BhuvanGudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuvangudi&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) -->
+
+
 ## Github Stats  
 <table style="border: none;">
     <tr>
