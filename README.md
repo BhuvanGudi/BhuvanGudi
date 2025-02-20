@@ -100,13 +100,13 @@ user=BhuvanGudi&theme=dark&card_width=300&card_height=180)](https://git.io/strea
 <table style="border: none;">
     <tr>
         <td>
-            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rho-five.vercel.app?user=BhuvanGudi&theme=dark" width="300" height="180" alt="GitHub Streak" /></a>
+          <img src="https://github-readme-stats.vercel.app/api?username=BhuvanGudi&show_icons=true&theme=dark&count_private=true&hide_border=false&border_radius=5&order=3" width="300" height="180" style="object-fit: cover;" alt="stats" />
         </td>
-<!--          <td>
+          <td>
             <div>
-                <img src="https://streak-stats.demolab.com?username=BhuvanGudi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="300" height="180" style="object-fit: cover;" alt="streak graph" />
+                <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rho-five.vercel.app?user=BhuvanGudi&theme=dark" width="300" height="180" alt="GitHub Streak" /></a>
             </div>
-        </td>  -->
+        </td>  
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvanGudi&theme=dark&hide_border=false&layout=compact" width="300" height="180" style="object-fit: cover;" alt="languages" />
         </td>
