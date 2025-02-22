@@ -109,7 +109,7 @@ ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 <table style="border: none;">
     <tr>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=BhuvanGudi&show_icons=true&theme=dark&count_private=true&hide_border=false&border_radius=5&order=3" width="300" height="180" style="object-fit: cover;" alt="stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvangudi&show_icons=true&locale=en&theme=dark" width="300" height="180" alt="bhuvangudi" />
         </td>
           <td>
             <div>
@@ -117,7 +117,7 @@ ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
             </div>
         </td>  
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvanGudi&theme=dark&hide_border=false&layout=compact" width="300" height="180" style="object-fit: cover;" alt="languages" />
+            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvangudi&show_icons=true&locale=en&layout=compact&theme=dark" width="300" height="180" alt="bhuvangudi" />
         </td>
     </tr>
 </table>
