@@ -6,7 +6,7 @@
 
 
 ### Glad to see you here!  
-##### I am a second-year computer science undergraduate at the University of Calgary, driven by curiosity about the technologies shaping our future. How do some innovations revolutionize industries while others fall short? What trends point to the next big breakthrough? 
+##### I am a third-year computer science undergraduate at the University of Calgary, driven by curiosity about the technologies shaping our future. How do some innovations revolutionize industries while others fall short? What trends point to the next big breakthrough? 
 
 ##### I’ve delved into foundational coursework in programming and algorithms and gained exposure to problem-solving in tech projects. I’m eager to continue growing my skills and contributing to the development of tomorrow’s transformative technologies.  
   
